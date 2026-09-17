@@ -1,1 +1,1 @@
-Dumb Code to ping everyone in Discord
+Dumb Code to ping everyone in Discord server
